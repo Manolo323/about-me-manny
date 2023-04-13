@@ -20,3 +20,13 @@ body {
     top: 80%;
     left: -3%;
 }
+
+.left{
+    width: 100%;
+    margin: auto;
+    text-align: left;
+}
+
+.html-list{
+    list-style-type: none;
+}
