@@ -2,8 +2,8 @@ h1 {
     color: midnightblue;
 }
 img {
-    width: 400px;
-    height: 300px;
+    width: 300px;
+    height: 200px;
 }
 .name {
     width: 50%;
@@ -13,4 +13,10 @@ img {
 }
 body {
     background-image: url('space.jpg');
+}
+
+.over-img{
+    position: absolute;
+    top: 80%;
+    left: -3%;
 }
